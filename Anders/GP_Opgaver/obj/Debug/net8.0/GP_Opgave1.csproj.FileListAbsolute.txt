@@ -1,0 +1,15 @@
+C:\Users\ander\Documents\GitHub\Team-7-offentlig-repo\GP_Opgave1\bin\Debug\net8.0\GP_Opgave1.exe
+C:\Users\ander\Documents\GitHub\Team-7-offentlig-repo\GP_Opgave1\obj\Debug\net8.0\GP_Opgave1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ander\Documents\GitHub\Team-7-offentlig-repo\GP_Opgave1\obj\Debug\net8.0\GP_Opgave1.AssemblyInfoInputs.cache
+C:\Users\ander\Documents\GitHub\Team-7-offentlig-repo\GP_Opgave1\obj\Debug\net8.0\GP_Opgave1.AssemblyInfo.cs
+C:\Users\ander\Documents\GitHub\Team-7-offentlig-repo\GP_Opgave1\obj\Debug\net8.0\GP_Opgave1.csproj.CoreCompileInputs.cache
+C:\Users\ander\Documents\GitHub\Team-7-offentlig-repo\GP_Opgave1\obj\Debug\net8.0\GP_Opgave1.sourcelink.json
+C:\Users\ander\Documents\GitHub\Team-7-offentlig-repo\GP_Opgave1\obj\Debug\net8.0\GP_Opgave1.dll
+C:\Users\ander\Documents\GitHub\Team-7-offentlig-repo\GP_Opgave1\obj\Debug\net8.0\refint\GP_Opgave1.dll
+C:\Users\ander\Documents\GitHub\Team-7-offentlig-repo\GP_Opgave1\obj\Debug\net8.0\GP_Opgave1.pdb
+C:\Users\ander\Documents\GitHub\Team-7-offentlig-repo\GP_Opgave1\bin\Debug\net8.0\GP_Opgave1.deps.json
+C:\Users\ander\Documents\GitHub\Team-7-offentlig-repo\GP_Opgave1\bin\Debug\net8.0\GP_Opgave1.runtimeconfig.json
+C:\Users\ander\Documents\GitHub\Team-7-offentlig-repo\GP_Opgave1\bin\Debug\net8.0\GP_Opgave1.dll
+C:\Users\ander\Documents\GitHub\Team-7-offentlig-repo\GP_Opgave1\bin\Debug\net8.0\GP_Opgave1.pdb
+C:\Users\ander\Documents\GitHub\Team-7-offentlig-repo\GP_Opgave1\obj\Debug\net8.0\GP_Opgave1.genruntimeconfig.cache
+C:\Users\ander\Documents\GitHub\Team-7-offentlig-repo\GP_Opgave1\obj\Debug\net8.0\ref\GP_Opgave1.dll
