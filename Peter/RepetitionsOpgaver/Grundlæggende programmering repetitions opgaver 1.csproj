@@ -1,0 +1,9 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <RootNamespace>Grundlæggende_programmering_repetitions_opgaver_1</RootNamespace>
+  </PropertyGroup>
+
+</Project>

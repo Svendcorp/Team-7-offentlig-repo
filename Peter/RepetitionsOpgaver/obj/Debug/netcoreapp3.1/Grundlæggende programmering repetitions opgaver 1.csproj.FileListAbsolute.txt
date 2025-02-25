@@ -1,0 +1,14 @@
+S:\Visual Studio Projects\Grundlæggende programmering repetitions opgaver 1\bin\Debug\netcoreapp3.1\Grundlæggende programmering repetitions opgaver 1.exe
+S:\Visual Studio Projects\Grundlæggende programmering repetitions opgaver 1\bin\Debug\netcoreapp3.1\Grundlæggende programmering repetitions opgaver 1.deps.json
+S:\Visual Studio Projects\Grundlæggende programmering repetitions opgaver 1\bin\Debug\netcoreapp3.1\Grundlæggende programmering repetitions opgaver 1.runtimeconfig.json
+S:\Visual Studio Projects\Grundlæggende programmering repetitions opgaver 1\bin\Debug\netcoreapp3.1\Grundlæggende programmering repetitions opgaver 1.runtimeconfig.dev.json
+S:\Visual Studio Projects\Grundlæggende programmering repetitions opgaver 1\bin\Debug\netcoreapp3.1\Grundlæggende programmering repetitions opgaver 1.dll
+S:\Visual Studio Projects\Grundlæggende programmering repetitions opgaver 1\bin\Debug\netcoreapp3.1\Grundlæggende programmering repetitions opgaver 1.pdb
+S:\Visual Studio Projects\Grundlæggende programmering repetitions opgaver 1\obj\Debug\netcoreapp3.1\Grundlæggende programmering repetitions opgaver 1.GeneratedMSBuildEditorConfig.editorconfig
+S:\Visual Studio Projects\Grundlæggende programmering repetitions opgaver 1\obj\Debug\netcoreapp3.1\Grundlæggende programmering repetitions opgaver 1.AssemblyInfoInputs.cache
+S:\Visual Studio Projects\Grundlæggende programmering repetitions opgaver 1\obj\Debug\netcoreapp3.1\Grundlæggende programmering repetitions opgaver 1.AssemblyInfo.cs
+S:\Visual Studio Projects\Grundlæggende programmering repetitions opgaver 1\obj\Debug\netcoreapp3.1\Grundlæggende programmering repetitions opgaver 1.csproj.CoreCompileInputs.cache
+S:\Visual Studio Projects\Grundlæggende programmering repetitions opgaver 1\obj\Debug\netcoreapp3.1\Grundlæggende programmering repetitions opgaver 1.dll
+S:\Visual Studio Projects\Grundlæggende programmering repetitions opgaver 1\obj\Debug\netcoreapp3.1\Grundlæggende programmering repetitions opgaver 1.pdb
+S:\Visual Studio Projects\Grundlæggende programmering repetitions opgaver 1\obj\Debug\netcoreapp3.1\Grundlæggende programmering repetitions opgaver 1.genruntimeconfig.cache
+S:\Visual Studio Projects\Grundlæggende programmering repetitions opgaver 1\obj\Debug\netcoreapp3.1\Grundlæggende programmering repetitions opgaver 1.csproj.AssemblyReference.cache
