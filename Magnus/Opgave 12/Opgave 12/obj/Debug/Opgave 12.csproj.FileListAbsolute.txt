@@ -1,0 +1,7 @@
+C:\Users\buch_\OneDrive\Skrivebord\Github Projekter\Repetations opgaver\Opgave 12\Opgave 12\bin\Debug\Opgave 12.exe.config
+C:\Users\buch_\OneDrive\Skrivebord\Github Projekter\Repetations opgaver\Opgave 12\Opgave 12\bin\Debug\Opgave 12.exe
+C:\Users\buch_\OneDrive\Skrivebord\Github Projekter\Repetations opgaver\Opgave 12\Opgave 12\bin\Debug\Opgave 12.pdb
+C:\Users\buch_\OneDrive\Skrivebord\Github Projekter\Repetations opgaver\Opgave 12\Opgave 12\obj\Debug\Opgave 12.csproj.AssemblyReference.cache
+C:\Users\buch_\OneDrive\Skrivebord\Github Projekter\Repetations opgaver\Opgave 12\Opgave 12\obj\Debug\Opgave 12.csproj.CoreCompileInputs.cache
+C:\Users\buch_\OneDrive\Skrivebord\Github Projekter\Repetations opgaver\Opgave 12\Opgave 12\obj\Debug\Opgave 12.exe
+C:\Users\buch_\OneDrive\Skrivebord\Github Projekter\Repetations opgaver\Opgave 12\Opgave 12\obj\Debug\Opgave 12.pdb

@@ -1,0 +1,7 @@
+C:\Users\buch_\OneDrive\Skrivebord\Github Projekter\Repetations opgaver\Repetations opgaver\Repetations opgaver\obj\Debug\Repetations opgaver.csproj.AssemblyReference.cache
+C:\Users\buch_\OneDrive\Skrivebord\Github Projekter\Repetations opgaver\Repetations opgaver\Repetations opgaver\obj\Debug\Repetations opgaver.csproj.CoreCompileInputs.cache
+C:\Users\buch_\OneDrive\Skrivebord\Github Projekter\Repetations opgaver\Repetations opgaver\Repetations opgaver\bin\Debug\Repetations opgaver.exe.config
+C:\Users\buch_\OneDrive\Skrivebord\Github Projekter\Repetations opgaver\Repetations opgaver\Repetations opgaver\bin\Debug\Repetations opgaver.exe
+C:\Users\buch_\OneDrive\Skrivebord\Github Projekter\Repetations opgaver\Repetations opgaver\Repetations opgaver\bin\Debug\Repetations opgaver.pdb
+C:\Users\buch_\OneDrive\Skrivebord\Github Projekter\Repetations opgaver\Repetations opgaver\Repetations opgaver\obj\Debug\Repetations opgaver.exe
+C:\Users\buch_\OneDrive\Skrivebord\Github Projekter\Repetations opgaver\Repetations opgaver\Repetations opgaver\obj\Debug\Repetations opgaver.pdb

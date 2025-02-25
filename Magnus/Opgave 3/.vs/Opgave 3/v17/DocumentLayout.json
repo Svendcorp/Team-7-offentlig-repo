@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\buch_\\OneDrive\\Skrivebord\\Github Projekter\\Repetations opgaver\\Opgave 3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{44D84520-EDAA-4378-A866-EF5150B07CE0}|Opgave 3\\Opgave 3.csproj|c:\\users\\buch_\\onedrive\\skrivebord\\github projekter\\repetations opgaver\\opgave 3\\opgave 3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44D84520-EDAA-4378-A866-EF5150B07CE0}|Opgave 3\\Opgave 3.csproj|solutionrelative:opgave 3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\buch_\\OneDrive\\Skrivebord\\Github Projekter\\Repetations opgaver\\Opgave 3\\Opgave 3\\Program.cs",
+              "RelativeDocumentMoniker": "Opgave 3\\Program.cs",
+              "ToolTip": "C:\\Users\\buch_\\OneDrive\\Skrivebord\\Github Projekter\\Repetations opgaver\\Opgave 3\\Opgave 3\\Program.cs",
+              "RelativeToolTip": "Opgave 3\\Program.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAIwDEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T09:24:30.402Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
