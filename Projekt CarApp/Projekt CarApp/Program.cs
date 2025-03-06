@@ -15,6 +15,8 @@ namespace Projekt_CarApp
             Console.Write(car01.Model);
 
             Console.ReadLine();
+
+            //Hello
         }
     }
 }
