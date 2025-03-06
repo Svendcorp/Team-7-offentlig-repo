@@ -10,6 +10,11 @@ namespace Projekt_CarApp
     {
         static void Main(string[] args)
         {
+            Car car01 = new Car("Corolla");
+            
+            Console.Write(car01.Model);
+
+            Console.ReadLine();
         }
     }
 }
