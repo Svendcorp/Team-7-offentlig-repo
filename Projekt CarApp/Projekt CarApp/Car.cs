@@ -19,6 +19,9 @@ namespace Projekt_CarApp
         private bool _isEngineOn; //Anders
         private double _kmPerLiter; //Fælles 
         
+
+
+        //retunere model
        public string Model
         {
             get { return _model; }
@@ -38,10 +41,35 @@ namespace Projekt_CarApp
         }
 
         //method
-        public void CarData()
+        public void CarModel()
         {
             Console.WriteLine(Model);
         }
 
+
+        //retunere odometer
+        public double Odometer
+        {
+            get { return _odometer; }
+            set
+            {
+                if (!string.IsNullOrWhiteSpace(value))
+                    _odometer = value;
+                else
+                    Console.WriteLine("❌ Model cannot be empty!");
+            }
+        }
+
+        //Constuctor
+        public Car(string odometer)
+        {
+            Odometer = odometer;
+        }
+
+        //method
+        public void CarOdometer()
+        {
+            Console.WriteLine(Odometer);
+        }
     }
 }
