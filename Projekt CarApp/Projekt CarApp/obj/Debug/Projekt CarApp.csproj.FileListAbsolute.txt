@@ -1,7 +1,0 @@
-C:\Users\buch_\OneDrive\Dokumenter\GitHub\Team-7-offentlig-repo\Projekt CarApp\Projekt CarApp\obj\Debug\Projekt CarApp.csproj.AssemblyReference.cache
-C:\Users\buch_\OneDrive\Dokumenter\GitHub\Team-7-offentlig-repo\Projekt CarApp\Projekt CarApp\obj\Debug\Projekt CarApp.csproj.CoreCompileInputs.cache
-C:\Users\buch_\OneDrive\Dokumenter\GitHub\Team-7-offentlig-repo\Projekt CarApp\Projekt CarApp\bin\Debug\Projekt CarApp.exe.config
-C:\Users\buch_\OneDrive\Dokumenter\GitHub\Team-7-offentlig-repo\Projekt CarApp\Projekt CarApp\bin\Debug\Projekt CarApp.exe
-C:\Users\buch_\OneDrive\Dokumenter\GitHub\Team-7-offentlig-repo\Projekt CarApp\Projekt CarApp\bin\Debug\Projekt CarApp.pdb
-C:\Users\buch_\OneDrive\Dokumenter\GitHub\Team-7-offentlig-repo\Projekt CarApp\Projekt CarApp\obj\Debug\Projekt CarApp.exe
-C:\Users\buch_\OneDrive\Dokumenter\GitHub\Team-7-offentlig-repo\Projekt CarApp\Projekt CarApp\obj\Debug\Projekt CarApp.pdb
