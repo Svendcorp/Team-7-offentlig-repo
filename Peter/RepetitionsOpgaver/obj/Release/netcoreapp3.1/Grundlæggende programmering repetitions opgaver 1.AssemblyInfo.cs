@@ -12,7 +12,7 @@ using System;
 using System.Reflection;
 
 [assembly: System.Reflection.AssemblyCompanyAttribute("Grundlæggende programmering repetitions opgaver 1")]
-[assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
+[assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3fe9f4d6b14e429cc700149482bd6766a6edac32")]
 [assembly: System.Reflection.AssemblyProductAttribute("Grundlæggende programmering repetitions opgaver 1")]
