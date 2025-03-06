@@ -10,14 +10,14 @@ namespace Projekt_CarApp
 {
     public class Car
     {
-        private string _model;
-        private string _brand;
-        private char _gear;
-        private int _year;
-        private double _odometer;
-        private string _fuelType;
-        private bool _isEngineOn;
-        private double _kmPerLiter;
+        private string _model; //done
+        private string _brand; //Peter
+        private char _gear; //Anders
+        private int _year; //Peter
+        private double _odometer; //Magnus
+        private string _fuelType; //Magnus
+        private bool _isEngineOn; //Anders
+        private double _kmPerLiter; //Fælles 
         
        public string Model
         {
